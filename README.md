@@ -25,9 +25,9 @@
 
 ## :books: General info
 
-* Built with HTML and CSS
+* Built with HTML and CSS. No Javascript.
 * Perfect performance, Perfect scores on accessibility, best practices and SEO.
-* CSS is minimised to reduce initial render/First Contentful Paint time.
+* CSS and HTML are minimised to reduce initial render/First Contentful Paint time.
 
 ## :camera: Screenshots
 
@@ -77,6 +77,7 @@
 ## :clap: Inspiration
 
 * [W3 Schools: How TO - Responsive Image Grid](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp)
+* [Stackoverflow: css grid layout make image fill space of column and row](https://stackoverflow.com/questions/76846528/css-grid-layout-make-image-fill-space-of-column-and-row)
 
 ## :file_folder: License
 
